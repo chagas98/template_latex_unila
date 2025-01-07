@@ -6,4 +6,4 @@ Estrutura foi elaborada para Trabalho de Conclusão de Curso do Bacharelado em B
 
 
 Como utilizar?
-Upload da pasta .zip no compilador web (Overleaf)[https://www.overleaf.com/].
+Upload da pasta .zip no compilador web [Overleaf](https://www.overleaf.com/).
